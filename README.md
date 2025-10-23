@@ -45,7 +45,7 @@ This project follows a **Dark UI System**:
 ## ▶ Prototype
 
 > (Add when available)
-([https://www.figma.com/proto/0DCKzr29Qag0zEfaQjyYlC/E-Commerce?page-id=0%3A1&node-id=27-4807&p=f&viewport=-1667%2C516%2C0.24&t=NXk3c1vMKgN9q6WR-1&scaling=contain&content-scaling=fixed&starting-point-node-id=12%3A41)]
+([https://www.figma.com/proto/0DCKzr29Qag0zEfaQjyYlC/E-Commerce?node-id=0-1&t=bzFz47yxLQgSMcIe-1)]
 
 ---
 
