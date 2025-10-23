@@ -54,7 +54,7 @@ This project follows a **Dark UI System**:
 ## Screenshot
 
 <img width="1906" height="1029" alt="Screenshot 2025-10-23 203501" src="https://github.com/user-attachments/assets/a3637a2b-3e28-4003-a4be-3b93dc306aca" />
-<img width="1252" height="1013" alt="Screenshot 2025-10-23 203514" src="https://github.com/user-attachments/assets/c6ebb2b4-66c9-4d28-bb0d-86e44022a6eb" />
+<img width="1252" height="1013" alt="Screenshot 2025-10-23 203514" src="https://github.com/user-attachments/assets/c6ebb2b4-66c9-4d28-bb0d-86e44022a6eb" /> 
 
 
 --
